@@ -1,0 +1,25 @@
+{
+  "name": "subcomparer-gui",
+  "version": "0.0.1",
+  "description": "Graphical Inteface for Subcomparer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/mattcongy/subcomparer-gui",
+  "keywords": [
+    "Subcomparer",
+    "Electron",
+    "subtitle",
+    "compare",
+    "srt"
+  ],
+  "author": "mattcongy",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
